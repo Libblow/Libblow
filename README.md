@@ -13,6 +13,34 @@
   </a>
 </p>
 
+<p align="center">
+  Hi, I am Ivan Tomashuk, a doctor studying computer science, information technology, mathematics and data science.
+  <br>
+  <br>
+  🔬 I am currently studying data science.
+  <br>
+  🎓 Received higher medical education (bachelor's degree) 
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I am interested in machine learning and artificial intelligence.
+  <br>
+  
+</p>
+
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align=center>
