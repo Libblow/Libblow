@@ -57,7 +57,7 @@
 
 <p align=center>
   <div align=left>
-    <p></p><a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <p></p><a href="#" title="Go to Source">
       <img align="left" height=155 width=370 src="https://github-readme-stats.vercel.app/api?username=Libblow&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
