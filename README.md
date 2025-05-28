@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  Hi, I am Ivan Tomashuk, a doctor studying computer science, information technology, mathematics and data science.
+  Hi, I am a doctor studying computer science, information technology, mathematics and data science.
   <br>
   <br>
   🔬 I am currently studying data science.
