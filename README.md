@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ivan+Tomashuk....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ivan....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -15,16 +15,6 @@
 
 <p align="center">
   Hi, I am a doctor studying computer science, information technology, mathematics and data science.
-  <br>
-  <br>
-  🔬 I am currently studying data science.
-  <br>
-  🎓 Received higher medical education (bachelor's degree) 
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I am interested in machine learning and artificial intelligence.
-  <br>
   
 </p>
 
